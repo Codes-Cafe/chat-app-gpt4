@@ -1,20 +1,16 @@
-# chat-app-gpt4
-A real-time chat application built with Flutter and Firebase, integrated with OpenAI GPT-4 API for intelligent and human-like conversations.
+# gpt_4
 
-🚀 Features
+A new Flutter project.
 
-🔥 Firebase Authentication – Sign up / Sign in with Email & Google
+## Getting Started
 
-💬 Real-time Messaging – Send and receive messages instantly via Firestore
+This project is a starting point for a Flutter application.
 
-🤖 GPT-4 AI Assistant – Integrated OpenAI GPT-4 model for smart chat responses
+A few resources to get you started if this is your first Flutter project:
 
-📱 Beautiful UI – Clean Material 3 design and responsive layout
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-☁️ Cloud Storage – Upload and share images in chat
-
-🔔 Push Notifications – Powered by Firebase Cloud Messaging
-
-🧠 Typing Indicator & Message Status
-
-🌙 Dark / Light Mode Support
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
